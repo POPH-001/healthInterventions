@@ -1,0 +1,161 @@
+---
+title: "Health Interventions"
+subtitle: "April 7 & 9 2025<br> Eric Delmelle"
+format: revealjs
+---
+
+```{=html}
+<style>
+.circle {
+  background-color: #FFCCCB; /* Light red background */
+  border: 2px solid teal; /* Teal border */
+  border-radius: 50%; /* Makes the circle round */
+  color: teal; /* Teal text color */
+  width: 75px; /* Circle diameter */
+  height: 75px; /* Circle diameter */
+  display: inline-block;
+  text-align: center;
+  line-height: 75px; /* Match the height to center the text vertically */
+  vertical-align: middle; /* Aligns the circle vertically with adjacent text */
+  margin-right: 5px;
+}
+</style>
+```
+```{=html}
+<style>
+.highlight-box {
+  background-color: yellow;
+  padding: 10px;
+  border-radius: 5px;
+}
+</style>
+```
+```{=html}
+<style>
+ul {
+  font-size: 85%;
+}
+
+ul ul {
+  font-size: 75%;
+}
+</style>
+```
+# [**Chapter Overview**]{style="text-align: center; color: blue;"}
+
+-   Focus: Planning interventions to **improve population health**
+-   Final step in population health tasks: **Control health problems**
+-   Emphasis on:
+    -   Health promotion
+    -   Disease prevention
+    -   Levels of prevention
+    -   Strategic frameworks and models
+
+# [**Wheel of interventions**]{style="text-align: center; color: blue;"}
+
+![Intervention Planning](imgs/wheel.jpg)
+
+------------------------------------------------------------------------
+
+## [1]{.circle}[**Health Promotion vs. Disease Prevention**]{style="color: teal;"}
+
+-   **Health Promotion**: Enhances well-being and capacity to make healthy choices
+-   **Disease Prevention**: Aims to reduce the occurrence, progression, and consequences of disease
+
+::: columns
+::: {.column width="50%"}
+**Promotion Examples:**
+
+-   Education campaigns
+-   Community gardens
+-   Bike-friendly cities
+:::
+
+::: {.column width="50%"}
+**Prevention Examples:**
+
+-   Immunization programs
+-   Anti-smoking laws
+-   STI screenings
+:::
+:::
+
+------------------------------------------------------------------------
+
+## [1]{.circle}[**Health Promotion vs. Disease Prevention**]{style="color: teal;"}
+
+![Health Pyramid](imgs/Health-Impact-Pyramid.png)
+
+------------------------------------------------------------------------
+
+## [2]{.circle}[**Levels of Intervention**]{style="color: teal;"} {.smaller}
+
+| TYPE               | DESCRIPTION                                                   |
+|--------------------------------------------|----------------------------|
+| Primary Prevention | Prevents disease before it starts (e.g., vaccines, nutrition) |
+| Early Detection    | Identifies disease early (e.g., screenings)                   |
+| Clinical Treatment | Manages illness through medical care                          |
+| Rehabilitation     | Restores function post-illness/injury                         |
+| Palliation         | Improves quality of life in terminal illness                  |
+
+------------------------------------------------------------------------
+
+## [3]{.circle}[**Primary Health Care (PHC) & Healthy People**]{style="color: teal;"}
+
+::: columns
+::: {.column width="55%"}
+-   **PHC (Alma Ata Declaration, 1978):**
+    -   Essential, accessible, and community-driven health care
+-   **Healthy People (U.S.):**
+    -   National objectives to improve health and eliminate disparities
+-   **Goals:**
+    -   Increase healthy life expectancy
+    -   Eliminate health disparities
+:::
+
+::: {.column width="45%"}
+![](imgs/healthy-2030.jpeg)
+:::
+:::
+
+------------------------------------------------------------------------
+
+## [4]{.circle}[**Key Models and Frameworks**]{style="color: teal;"}
+
+-   **PRECEDE--PROCEED Model:**
+    -   Structured planning for health interventions
+    -   Includes assessment, planning, implementation, and evaluation
+
+![PRECEDE--PROCEED](imgs/PRECEDE-PROCEED-model.jpg){width="2972"}
+
+------------------------------------------------------------------------
+
+## [4]{.circle}[**Key Models and Frameworks**]{style="color: teal;"}
+
+-   **Socio-Ecological Model:**
+    -   Individual, interpersonal, community, and systemic levels
+
+![Socio-Ecological Model](imgs/SEM.jpg)
+
+------------------------------------------------------------------------
+
+## [5]{.circle}[**Cross-Cultural and Community Considerations**]{style="color: teal;"}
+
+-   Tailor interventions to cultural norms and beliefs
+-   Use local leadership and community participation
+-   Ensure equity, access, and sustainability
+
+![Community Engagement](imgs/communityEngagement.jpg)
+
+# [**Summary Takeaways**]{style="text-align: center; color: blue;"}
+
+-   Effective interventions = more than clinical care
+-   Blend **promotion + prevention + treatment + community engagement**
+-   Use evidence-based frameworks
+-   Public health and primary care must collaborate
+
+# [**Reflections**]{style="text-align: center; color: blue;"}
+
+-   What makes a population-level intervention successful?
+-   How can health promotion be better integrated into clinical practice?
+-   Which model (PRECEDE--PROCEED or socio-ecological) feels more intuitive to you?

@@ -1,6 +1,5 @@
 ---
 title: "Health Interventions"
-subtitle: "April 7 & 9 2025<br> Eric Delmelle"
 format: revealjs
 ---
 
